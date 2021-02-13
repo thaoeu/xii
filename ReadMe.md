@@ -15,3 +15,19 @@ XII 输入法即标杆杆输入法，xii 的首码作“标杆杆”.
 2. 增加中文符号适配,由于 Dvorak 布局占用了原本的逗号句号顿号位,故需对空位加以处理.
 
 3. 适当增加英文词组,由于英文单词的特殊性,外加一次键位转换,大多不会和原码表冲,使得添加一些英文词组成为可能.
+
+## 安装
+
+```
+git clone https://github.com/thaoeu/xii
+cd xii
+cp XII.mb ～/.config/fcitx/table
+cp XII.config ～/.config/fcitx/table
+```
+
+## 更新码表
+
+```
+txt2mb XII.txt XII.mb
+cp XII.mb ～/.config/fcitx/table
+```
