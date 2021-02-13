@@ -2,7 +2,7 @@
 
 XII 输入法即标杆杆输入法，xii 的首码作“标杆杆”.
 
-码表基于 [fcitx-table-flypy](https://github.com/rydesun/fcitx-table-flypy)修改,采用 Dvorak 而非 Qwerty 布局.
+码表基于 [fcitx-table-flypy](https://github.com/rydesun/fcitx-table-flypy) 修改,采用 Dvorak 而非 Qwerty 布局.
 
 ## 特性：
 
