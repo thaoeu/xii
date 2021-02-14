@@ -1,5 +1,5 @@
 ;fcitx Version 0x03 Table file
-KeyCode=abcdefghijklmnopqrstuxy;',.
+KeyCode=abcdefghijklmnopqrstuxywvz;',.
 Length=4
 Pinyin=@
 PinyinLength=4
@@ -56712,3 +56712,6 @@ fyt.	约克
 nayb	辣条
 epem	端点
 ;ucp	字符串
+w	，
+v	。
+z	、
