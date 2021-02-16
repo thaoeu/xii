@@ -12311,7 +12311,6 @@ eoqn	动向
 eoqo	低三下四
 eoqy	洞穴
 eoqq	冬夏
-eoqc	东西
 eoqf	冬训
 eofp	动员
 eofa	东亚
@@ -38875,7 +38874,6 @@ o;,,	馊味
 o;qf	搜寻
 o;fh	嗓子眼
 okh;	𬭼
-op	虽然
 oo	搜索
 ok	随着
 oe	速度
@@ -43884,7 +43882,6 @@ t.ng	刻录
 t.nf	客轮
 t.mh	客满
 t.mg	科目
-t.bi	可能
 t.bc	可逆
 t.la	可怕
 t.li	磕碰
