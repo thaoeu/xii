@@ -13164,6 +13164,7 @@ fcc	役
 fctx	邑
 fc,j	弈
 fcf'	谊
+fccg	移除
 fccg	轶
 fcmn	驿
 fctf	咿
@@ -34359,7 +34360,6 @@ m;dq	谋划
 m;de	谋害
 m;cg	某处
 m;hm	某件
-m;hu	灭自己威风
 m;hq	某家
 m;n.	满足了
 m;nc	牟利
@@ -55569,7 +55569,6 @@ z	、
 ;cck	自吹
 ;cc;	自筹
 ;chx	资金
-;chh	自己资产阶级
 ;chm	自建
 ;chl	字节
 ;ch'	自救
@@ -55577,7 +55576,6 @@ z	、
 ;chg	字据
 ;chq	自家
 ;chq	自驾
-;chc	自己
 ;ctj	自考
 ;cto	自控
 ;ctg	字库
