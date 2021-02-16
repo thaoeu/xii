@@ -11758,6 +11758,7 @@ emni	当面锣对面鼓
 emmm	店面
 emmu	店门
 emmt	点名
+embj	电脑
 embi	电能
 embm	惦念
 embl	多米诺骨牌
