@@ -26530,6 +26530,7 @@ jcxf	兹
 jcxx	疵
 jcfi	差
 jcm	糍
+jcma	次码
 jcxb	鹚
 jckx	此
 jcae	刺
