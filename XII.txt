@@ -43881,6 +43881,7 @@ t.ng	刻录
 t.nf	客轮
 t.mh	客满
 t.mg	科目
+t.bi	可能
 t.bc	可逆
 t.la	可怕
 t.li	磕碰
