@@ -18806,6 +18806,7 @@ gcf.	事业
 gcfa	施压
 gcf.	视野
 gcfd	式样
+gcfc	十一
 gcfc	示意
 gcfc	失意
 gcfh	实验
