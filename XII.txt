@@ -13337,6 +13337,7 @@ fp	元
 fpc	原
 fp;	远
 fpcq	愿
+fpbc	愿你
 fpt.	园
 fpo	缘
 fpe	源
