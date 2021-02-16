@@ -12310,6 +12310,7 @@ eoqn	动向
 eoqo	低三下四
 eoqy	洞穴
 eoqq	冬夏
+eoqc	东西
 eoqf	冬训
 eofp	动员
 eofa	东亚
