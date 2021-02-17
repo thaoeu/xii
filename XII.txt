@@ -27402,6 +27402,7 @@ jomd	匆忙
 jomh	才思敏捷
 jom,	从没
 jo't	从轻
+jo'm	从前
 jopo	从容
 joog	从速
 joy;	从头
