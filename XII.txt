@@ -28033,6 +28033,7 @@ ko,f	衷
 ko;k	踵
 koco	蚣
 kg	主
+kg	只是
 kgp	住
 kg'	猪
 kgl	祝
