@@ -22218,6 +22218,7 @@ hmnj	监牢
 hmne	捡来
 hmn.	见了
 hmnn	见谅
+hmnm	监
 hmnm	简练
 hmnr	溅落
 hmny	简略
