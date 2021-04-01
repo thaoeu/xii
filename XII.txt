@@ -49935,7 +49935,7 @@ yje	涛
 yjm	桃
 yju	掏
 yjeu	淘
-yj,	韬
+j,	韬
 yjeh	滔
 yjte	叨
 yjud	焘
@@ -50566,6 +50566,7 @@ yjk.	套着
 yjkn	套装
 yjkg	套住
 yj,d	逃亡
+yj,g	梼杌
 yjqm	套现
 yjqh	慆
 yjqx	掏心
