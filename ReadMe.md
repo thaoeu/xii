@@ -35,5 +35,5 @@ cp XII.config ～/.config/fcitx/table
 
 ```
 txt2mb XII.txt XII.mb
-cp XII.mb ～/.config/fcitx/table
+cp XII.mb ~/.config/fcitx/table
 ```

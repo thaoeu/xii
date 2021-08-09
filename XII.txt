@@ -29811,6 +29811,7 @@ kpqx	专心
 kpqt	转型
 kpqn	转向
 kpqm	专线
+kpql	转写
 kpql	撰写
 kpq'	专修
 kpqy	转学
